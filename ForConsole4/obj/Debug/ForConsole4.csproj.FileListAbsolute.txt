@@ -1,0 +1,6 @@
+C:\Users\Dimon\source\repos\ISMPrakt03\ForConsole4\bin\Debug\ForConsole4.exe.config
+C:\Users\Dimon\source\repos\ISMPrakt03\ForConsole4\bin\Debug\ForConsole4.exe
+C:\Users\Dimon\source\repos\ISMPrakt03\ForConsole4\bin\Debug\ForConsole4.pdb
+C:\Users\Dimon\source\repos\ISMPrakt03\ForConsole4\obj\Debug\ForConsole4.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\ISMPrakt03\ForConsole4\obj\Debug\ForConsole4.exe
+C:\Users\Dimon\source\repos\ISMPrakt03\ForConsole4\obj\Debug\ForConsole4.pdb

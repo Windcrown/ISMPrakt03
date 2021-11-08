@@ -1,0 +1,6 @@
+C:\Users\Dimon\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\WhileConsole1.exe.config
+C:\Users\Dimon\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\WhileConsole1.exe
+C:\Users\Dimon\source\repos\ISMPrakt03\WhileConsole1\bin\Debug\WhileConsole1.pdb
+C:\Users\Dimon\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.exe
+C:\Users\Dimon\source\repos\ISMPrakt03\WhileConsole1\obj\Debug\WhileConsole1.pdb
